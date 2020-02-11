@@ -18,39 +18,39 @@ E-mail: m.dokuchaev73@gmail.com
 
   1. **Задача:** Сделать визуальную копию уже существующего сайта, но написать валидный код и с высоким индексом скорости загрузки страницы.
 
-  [исходный код](https://github.com/mihazzz123/safe77)
+  > [исходный код](https://github.com/mihazzz123/safe77)
 
-  [страницы сайта](https://mihazzz123.github.io/safe77/dist/pages.html)
+  > [страницы сайта](https://mihazzz123.github.io/safe77/dist/pages.html)
 
   2. **Задача:** Верстка с макета
 
-  [исходный код](https://github.com/mihazzz123/hunter_casino/tree/master/hunter_casino)
+  > [исходный код](https://github.com/mihazzz123/hunter_casino/tree/master/hunter_casino)
 
-  [страницы сайта](https://mihazzz123.github.io/hunter_casino/hunter_casino/pages.html)
+  > [страницы сайта](https://mihazzz123.github.io/hunter_casino/hunter_casino/pages.html)
   
   3. **Задача:** Верстка с макета, сделать за короткий промежуток времени простой лэндинг. 
 
-  [исходный код](https://github.com/mihazzz123/kitchen)
+  > [исходный код](https://github.com/mihazzz123/kitchen)
 
-  [страница сайта](https://mihazzz123.github.io/kitchen/src/index.html)
+  > [страница сайта](https://mihazzz123.github.io/kitchen/src/index.html)
 
   4. **Задача:** Верстка с макета. 
 
-  [исходный код](https://github.com/mihazzz123/maxicars)
+  > [исходный код](https://github.com/mihazzz123/maxicars)
 
-  [страницы сайта](https://mihazzz123.github.io/maxicars/pages.html)
+  > [страницы сайта](https://mihazzz123.github.io/maxicars/pages.html)
 
   5. **Задача:** Верстка с макета. Создание лэндинга с рабочими формами + установка простой админ панели. 
 
-  [исходный код](https://github.com/mihazzz123/miralex)
+  > [исходный код](https://github.com/mihazzz123/miralex)
 
-  [страница сайта](https://github.com/mihazzz123/miralex)
+  > [страница сайта](https://github.com/mihazzz123/miralex)
 
   6. **Задача:** Верстка с макета. 
 
-  [исходный код](https://github.com/mihazzz123/zapvodproekt)
-  
-  [страницы сайта](https://mihazzz123.github.io/zapvodproekt/index.html)
+  > [исходный код](https://github.com/mihazzz123/zapvodproekt)
+
+  > [страницы сайта](https://mihazzz123.github.io/zapvodproekt/index.html)
 
 В 2015г окончил Куменский аграрно-технологический техникум. Получил среднее-профессиональное образование по специальности "Техник программист". С 05 Февевраля 2019 до 27 Марта 2019 проходил онлайн курс Web-старт от Glo Academy.
 
