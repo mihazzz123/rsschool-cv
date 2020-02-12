@@ -18,39 +18,27 @@ E-mail: m.dokuchaev73@gmail.com
 ### Список из нескольких моих работ:
 
   1. **Задача:** Сделать визуальную копию уже существующего сайта, но написать валидный код и с высоким индексом скорости загрузки страницы.
-
   > [исходный код](https://github.com/mihazzz123/safe77)
-
   > [страницы сайта](https://mihazzz123.github.io/safe77/dist/pages.html)
 
   2. **Задача:** Верстка с макета
-
   > [исходный код](https://github.com/mihazzz123/hunter_casino/tree/master/hunter_casino)
-
   > [страницы сайта](https://mihazzz123.github.io/hunter_casino/hunter_casino/pages.html)
   
   3. **Задача:** Верстка с макета, сделать за короткий промежуток времени простой лэндинг. 
-
   > [исходный код](https://github.com/mihazzz123/kitchen)
-
   > [страница сайта](https://mihazzz123.github.io/kitchen/src/index.html)
 
   4. **Задача:** Верстка с макета. 
-
   > [исходный код](https://github.com/mihazzz123/maxicars)
-
   > [страницы сайта](https://mihazzz123.github.io/maxicars/pages.html)
 
   5. **Задача:** Верстка с макета. Создание лэндинга с рабочими формами + установка простой админ панели. 
-
   > [исходный код](https://github.com/mihazzz123/miralex)
-
   > [страница сайта](https://github.com/mihazzz123/miralex)
 
   6. **Задача:** Верстка с макета. 
-
   > [исходный код](https://github.com/mihazzz123/zapvodproekt)
-
   > [страницы сайта](https://mihazzz123.github.io/zapvodproekt/index.html)
 
 ### Образование
