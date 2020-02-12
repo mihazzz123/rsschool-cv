@@ -35,7 +35,7 @@ E-mail: m.dokuchaev73@gmail.com
 
   5. **Задача:** Верстка с макета. Создание лэндинга с рабочими формами + установка простой админ панели. 
   > [исходный код](https://github.com/mihazzz123/miralex)   
-  > [страница сайта](https://github.com/mihazzz123/miralex)
+  > [страница сайта](https://mihazzz123.github.io/miralex/)
 
   6. **Задача:** Верстка с макета. 
   > [исходный код](https://github.com/mihazzz123/zapvodproekt)  
