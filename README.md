@@ -1,4 +1,3 @@
-
 # rsschool-cv
 Training in Rsscool 2020
 ***
