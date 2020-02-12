@@ -1,0 +1,97 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+html, body {
+  padding: 0;
+  margin: 0;
+  background: #ccc;
+  background-image: url(../img/bg.jpg);
+  background-size: 10%;
+  background-attachment: fixed;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #292929; }
+  html a, body a {
+    color: #292929; }
+
+.container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #fdfdfd;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 0 20px 5px #ccc;
+          box-shadow: 0 0 20px 5px #ccc; }
+
+.main-top {
+  padding-top: 30px;
+  padding-bottom: 70px; }
+  .main-top__title {
+    font-weight: 800;
+    font-size: 2.3rem;
+    padding: 0;
+    margin: 0; }
+
+.main-about {
+  padding-right: 15px;
+  width: 65%; }
+  .main-about__wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; }
+
+.main-photo {
+  padding-left: 15px;
+  width: 35%; }
+  .main-photo img {
+    max-width: 100%;
+    -webkit-box-shadow: 5px 10px 10px 5px #ccc;
+            box-shadow: 5px 10px 10px 5px #ccc; }
+
+.main-content {
+  padding-top: 60px; }
+  .main-content__desc {
+    padding-bottom: 40px; }
+
+.about-name {
+  font-weight: 400;
+  font-size: 1.6rem;
+  margin: 0;
+  padding-bottom: 40px; }
+
+.about-contact__wrap {
+  padding-bottom: 10px; }
+
+.about-contact__type {
+  padding-right: 15px; }
+
+.about-contact__link {
+  padding-right: 5px; }
+
+.about-title {
+  display: block;
+  font-size: 1.15rem;
+  padding-bottom: 20px; }
+
+.about-me {
+  padding-top: 50px; }
+
+.about__social {
+  text-decoration: none; }
+
+.work-task {
+  display: block;
+  padding-bottom: 20px; }
+
+.work-link {
+  display: block;
+  padding-bottom: 10px; }
+
+.work li {
+  padding-bottom: 20px; }
+/*# sourceMappingURL=style.css.map */
