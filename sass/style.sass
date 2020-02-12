@@ -1,0 +1,84 @@
+* 
+  box-sizing: border-box
+
+
+html, body 
+  padding: 0
+  margin: 0
+  background: #ccc
+  background-image: url(../img/bg.jpg)
+  background-size: 10%
+  background-attachment: fixed
+  font-family: 'Open Sans', sans-serif
+  font-size: 18px
+  color: #292929
+  a 
+    color: #292929
+
+.container 
+  max-width: 1024px
+  margin-left: auto
+  margin-right: auto
+  padding-left: 30px
+  padding-right: 30px
+  background-color: #fdfdfd
+  margin-top: 70px
+  margin-bottom: 100px
+  border-radius: 4px
+  box-shadow: 0 0 20px 5px #ccc
+
+.main
+  &-top
+    padding-top: 30px
+    padding-bottom: 70px
+    &__title 
+      font-weight: 800
+      font-size: 2.3rem
+      padding: 0
+      margin: 0
+  &-about
+    padding-right: 15px
+    width: 65%
+    &__wrap
+      display: flex
+  &-photo
+    padding-left: 15px
+    width: 35%
+    & img
+      max-width: 100%
+      box-shadow: 5px 10px 10px 5px #ccc
+  &-content
+    padding-top: 60px
+    &__desc
+      padding-bottom: 40px
+.about
+  &-name
+    font-weight: 400
+    font-size: 1.6rem
+    margin: 0
+    padding-bottom: 40px  
+  &-contact
+    &__wrap
+      padding-bottom: 10px
+    &__type
+      padding-right: 15px
+    &__link
+      padding-right: 5px
+  &-title
+    display: block
+    font-size: 1.15rem
+    padding-bottom: 20px
+  &-me 
+    padding-top: 50px
+  &__social
+    text-decoration: none
+
+.work
+  &-task
+    display: block
+    padding-bottom: 20px
+  &-link 
+    display: block
+    padding-bottom: 10px
+  & li 
+    padding-bottom: 20px
