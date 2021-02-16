@@ -1,5 +1,5 @@
 # rsschool-cv
-Training in Rsscool 2020
+Training in Rsscool 2021
 ***
 
 #### Task - "Markdown & Git"
