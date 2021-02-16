@@ -3,4 +3,4 @@ Training in Rsscool 2021
 ***
 
 
-https://mihazzz123.github.io/rsschool-cv/
+https://mihazzz123.github.io/rsschool-cv/cv
