@@ -1,48 +1,14 @@
-## Резюме младшего разработчика
-
-Докучаев Михаил Владимирович
-
-Контактная информация:
-
-Контактный номер: +7 919 506 37-68, +7 912 362 04-81 
-
-E-mail: m.dokuchaev73@gmail.com 
-
-### Обо мне
-С сентября 2019г работаю на фрилансе "Верстальщиком". Есть опыт создания лэндингов и верстки крупных многостраничных сайтов.
-
-Хочу устроиться в крупную ИТ компанию для повышения своих навыков в программировании. Вступить в команду разработчиков, совместно разрабатывать какой-либо проект и постоянно учиться. Готов столкнуться с трудностями и быстро обучаться.  
-
-Есть навык написания кода HTML, CSS и простых функций на JS. Пользуюсь препроцессорам SASS, активно использую библиотеки такие как Bootstrap и jQuery. Использую методологию БЭМ.
-
-### Список из нескольких моих работ:
-
-  1. **Задача:** Сделать визуальную копию уже существующего сайта, но написать валидный код и с высоким индексом скорости загрузки страницы.
-  > [исходный код](https://github.com/mihazzz123/safe77)    
-  > [страницы сайта](https://mihazzz123.github.io/safe77/dist/pages.html)
-
-  2. **Задача:** Верстка с макета
-  > [исходный код](https://github.com/mihazzz123/hunter_casino/tree/master/hunter_casino)     
-  > [страницы сайта](https://mihazzz123.github.io/hunter_casino/hunter_casino/pages.html)
-  
-  3. **Задача:** Верстка с макета, сделать за короткий промежуток времени простой лэндинг. 
-  > [исходный код](https://github.com/mihazzz123/kitchen)     
-  > [страница сайта](https://mihazzz123.github.io/kitchen/src/index.html)
-
-  4. **Задача:** Верстка с макета. 
-  > [исходный код](https://github.com/mihazzz123/maxicars)    
-  > [страницы сайта](https://mihazzz123.github.io/maxicars/pages.html)
-
-  5. **Задача:** Верстка с макета. Создание лэндинга с рабочими формами + установка простой админ панели. 
-  > [исходный код](https://github.com/mihazzz123/miralex)   
-  > [страница сайта](https://mihazzz123.github.io/miralex/)
-
-  6. **Задача:** Верстка с макета. 
-  > [исходный код](https://github.com/mihazzz123/zapvodproekt)  
-  > [страницы сайта](https://mihazzz123.github.io/zapvodproekt/index.html)
-
-### Образование
-В 2015г окончил Куменский аграрно-технологический техникум. Получил среднее-профессиональное образование по специальности "Техник программист". С 05 Февевраля 2019 до 27 Марта 2019 проходил онлайн курс Web-старт от Glo Academy.
-
-### Английский 
-Знание английского на низком уровне, но я работаю над этим :slightly_smiling_face:
+# CV for RsSchool
+### About me:
+#### My name is Mikhail Dokuchaev
+### Contacts: 
+##### +7 912 362 04-81
+##### [m.dokuchaev73@gmail.com](mailto:m.dokuchaev73@gmail.com)
+### Summary:
+I'm junior frontend developer. I work in small company web programmer. We make sites and web apps in Bitrix. I want learning fully lang javascript and also frameworks JS learning. And then I want to get a new job in a large IT company. Build large JS applications, solve complex, interesting problems together and add value to society.
+### Skils:
+Basic level of programming in javascript and php. I also know the layout site.
+### Education:
+Secondary vocational education, specialty "technician-programmer".
+### English:
+My english not good, but I working on it

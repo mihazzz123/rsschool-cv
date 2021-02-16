@@ -1,7 +1,8 @@
 * 
   box-sizing: border-box
 
-
+p 
+  margin: 0
 html, body 
   padding: 0
   margin: 0
@@ -10,7 +11,7 @@ html, body
   background-size: 10%
   background-attachment: fixed
   font-family: 'Open Sans', sans-serif
-  font-size: 18px
+  font-size: 16px
   color: #292929
   a 
     color: #292929
@@ -19,55 +20,57 @@ html, body
   max-width: 1024px
   margin-left: auto
   margin-right: auto
-  padding-left: 30px
-  padding-right: 30px
+  padding-left: 1.9rem
+  padding-right: 1.9rem
   background-color: #fdfdfd
-  margin-top: 70px
-  margin-bottom: 100px
+  margin-top: 5rem
+  margin-bottom: 6rem
   border-radius: 4px
-  box-shadow: 0 0 20px 5px #ccc
+  box-shadow: 0 0 1.2rem 0.4rem #ccc
 
 .main
   &-top
-    padding-top: 30px
-    padding-bottom: 70px
+    padding-top: 1.9rem
+    padding-bottom: 1rem
     &__title 
       font-weight: 800
       font-size: 2.3rem
       padding: 0
-      margin: 0
+      margin-top: 0
+      margin-bottom: 1rem
   &-about
-    padding-right: 15px
+    padding-right: 1rem
     width: 65%
     &__wrap
       display: flex
   &-photo
-    padding-left: 15px
+    padding-left: 1rem
     width: 35%
     & img
       max-width: 100%
-      box-shadow: 5px 10px 10px 5px #ccc
+      box-shadow: 0.4rem 0.6rem 0.6rem 0.4rem #ccc
   &-content
-    padding-top: 60px
+    padding-top: 1rem
     &__desc
-      padding-bottom: 40px
+      padding-bottom: 2.2rem
 .about
   &-name
     font-weight: 400
     font-size: 1.6rem
     margin: 0
-    padding-bottom: 40px  
+    padding-bottom: 1.5rem  
   &-contact
     &__wrap
-      padding-bottom: 10px
+      padding-bottom: 0.6rem
     &__type
-      padding-right: 15px
+      padding-right: 1rem
     &__link
-      padding-right: 5px
+      padding-right: 0.4rem
   &-title
     display: block
     font-size: 1.15rem
-    padding-bottom: 20px
+    margin-top: 0
+    margin-bottom: 1rem
   &-me 
     padding-top: 50px
   &__social
@@ -76,9 +79,37 @@ html, body
 .work
   &-task
     display: block
-    padding-bottom: 20px
+    padding-bottom: 1.2rem
   &-link 
     display: block
-    padding-bottom: 10px
+    padding-bottom: 0.6rem
   & li 
-    padding-bottom: 20px
+    padding-bottom: 1.2rem
+
+@media (max-width: 1024px)
+  html 
+    font-size: 13px
+@media (max-width: 786px)
+  html 
+    font-size: 14px
+  .main-
+    &photo 
+      width: 100%
+      max-width: 400px
+      margin-bottom: 2rem
+      padding-left: 0
+    &about
+      width: 100%
+      &__wrap 
+        display: flex
+        flex-direction: column-reverse
+
+@media (max-width: 486px)
+  .container
+    margin-top: 0
+    margin-bottom: 0
+
+@media (max-width: 400px)
+  .container
+    padding-left: 1rem
+    padding-right: 1rem
